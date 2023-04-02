@@ -1,0 +1,2 @@
+# publicc-kayit
+public kayıt
